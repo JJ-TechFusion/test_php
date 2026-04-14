@@ -1,5 +1,5 @@
 {
-  "name": "php-api",
+  "name": "test_api/php-api",
   "description": "Simple PHP REST API",
   "require": {
     "php": ">=7.4"
